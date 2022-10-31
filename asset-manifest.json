@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopify-react/static/css/main.a50488d1.css",
+    "main.js": "/shopify-react/static/js/main.648e8705.js",
+    "static/js/787.23170c61.chunk.js": "/shopify-react/static/js/787.23170c61.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.3.0": "/shopify-react/static/media/fontawesome-webfont.d0ba16d89d53283e819b.svg",
+    "static/media/fontawesome-webfont.ttf?v=4.3.0": "/shopify-react/static/media/fontawesome-webfont.45f9f92a5bfbad4be12f.ttf",
+    "static/media/banner-bg.jpg": "/shopify-react/static/media/banner-bg.a874da54e941ad4da765.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.3.0": "/shopify-react/static/media/fontawesome-webfont.c589f72df384e3ef078b.woff",
+    "static/media/fontawesome-webfont.eot": "/shopify-react/static/media/fontawesome-webfont.03605b2467d43a9f4c63.eot",
+    "static/media/fontawesome-webfont.woff2?v=4.3.0": "/shopify-react/static/media/fontawesome-webfont.fb685a7c7e4aae2d4d71.woff2",
+    "static/media/loading.png": "/shopify-react/static/media/loading.8aab8067f9e2ee8a18dd.png",
+    "index.html": "/shopify-react/index.html",
+    "main.a50488d1.css.map": "/shopify-react/static/css/main.a50488d1.css.map",
+    "main.648e8705.js.map": "/shopify-react/static/js/main.648e8705.js.map",
+    "787.23170c61.chunk.js.map": "/shopify-react/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50488d1.css",
+    "static/js/main.648e8705.js"
+  ]
+}
